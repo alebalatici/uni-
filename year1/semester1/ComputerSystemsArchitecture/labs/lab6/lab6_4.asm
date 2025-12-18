@@ -1,4 +1,4 @@
-;A byte string s is given. Build the byte string d such that every byte d[i] is equal to the count of ones in the corresponding byte s[i] of s.
+;4. A byte string s is given. Build the byte string d such that every byte d[i] is equal to the count of ones in the corresponding byte s[i] of s.
 ;Example:
 ;s: 5, 25, 55, 127
 ;in binary:
@@ -47,3 +47,4 @@ segment code use32 class=code
         stop:
         push    dword 0      
         call    [exit]      
+
