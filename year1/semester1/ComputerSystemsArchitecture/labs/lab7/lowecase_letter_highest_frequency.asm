@@ -42,13 +42,13 @@ segment code use32 class=code
         cmp ecx, [cnt]
         jge stop
         mov al, [text+ecx]
-        cmp al, 'A'
+        cmp al, 'a'
         jl finish
-        cmp al, 'Z'
+        cmp al, 'z'
         jg finish
         ;sub al, '0'
         ;sub al, 49
-        sub al, 'A'
+        sub al, 'a'
         movzx eax, al 
         mov bl, [frecventa+eax]
         inc bl 
@@ -73,14 +73,13 @@ segment code use32 class=code
         inc ecx 
         jmp parcurgere1
         stop1:
-        add edi, 'A'
+        add edi, 'a'
         mov [rezultat], edi 
         
         push dword [rezultat] 
         push dword format
         call [printf]
         add esp, 8 
-        
         final:
         push    dword 0      
         call    [exit]       
