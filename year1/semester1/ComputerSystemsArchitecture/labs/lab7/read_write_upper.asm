@@ -53,7 +53,7 @@ segment code use32 class=code
         push dword [descriptor_fis]
         call [fclose]
         add esp, 4 
-        ;;;
+     
         push dword mod_acces1
         push dword nume_fisier
         call [fopen]
@@ -75,4 +75,5 @@ segment code use32 class=code
         final:
         push    dword 0      
         call    [exit]       
+
 
