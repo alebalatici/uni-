@@ -1,3 +1,4 @@
+; reads a text, creates a file with the given name, writes the text to the file in uppercase letters
 bits 32 
 global start   
 extern exit, printf, scanf, fopen, fread, fclose, fprintf, fgets
@@ -74,3 +75,4 @@ segment code use32 class=code
         final:
         push    dword 0      
         call    [exit]       
+
