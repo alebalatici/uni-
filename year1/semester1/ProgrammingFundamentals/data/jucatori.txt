@@ -1,0 +1,7 @@
+B01, LeBron James, Lakers, Forward, 112
+B02, Stephen Curry, Warriors, Guard, 130
+B06, Luka Doncic, Lakers, Guard, 127
+B07, Anthony Davis, Lakers, Center, 105
+B11, Nikola Jokie, Nuggets, Center, 117
+B13, Bradley Beal, Wizards, Guard, 119
+B14, Jayson Tatum, Celtics, Forward, 116

@@ -1,0 +1,17 @@
+B01, LeBron James, Lakers, Forward, 112
+B02, Stephen Curry, Warriors, Guard, 130
+B06, Luka Doncic, Lakers, Guard, 127
+B07, Anthony Davis, Lakers, Center, 105
+B11, Nikola Jokie, Nuggets, Center, 117
+B13, Bradley Beal, Wizards, Guard, 119
+B14, Jayson Tatum, Celtics, Forward, 116
+B15, Kevin Durant, Suns, Forward, 125
+B16, Giannis Antetokounmpo, Bucks, Forward, 133
+B17, Joel Embiid, 76ers, Center, 128
+B18, Damian Lillard, Bucks, Guard, 121
+B19, Jimmy Butler, Heat, Forward, 111
+B20, Kyrie Irving, Mavericks, Guard, 118
+B21, Karl-Anthony Towns, Timberwolves, Center, 109
+B22, Donovan Mitchell, Cavaliers, Guard, 120
+B23, Devin Booker, Suns, Guard, 124
+B24, Shai Gilgeous-Alexander, Thunder, Guard, 135
