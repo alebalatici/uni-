@@ -42,7 +42,7 @@ segment code use32 class=code
         push dword ebx 
         push dword fmt_print
         call [printf]
-        add esp, 8
+        add esp, 12
         
         inc ebx 
         jmp citire
@@ -56,3 +56,4 @@ segment code use32 class=code
     final:
     push dword 0
     call [exit]
+
