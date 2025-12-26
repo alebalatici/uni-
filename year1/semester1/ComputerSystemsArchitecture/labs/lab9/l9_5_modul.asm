@@ -1,3 +1,4 @@
+; l9_5_main.c + l9_5_modul.asm
 bits 32
 global _asm_calcul
 
@@ -10,3 +11,4 @@ _asm_calcul:
     sub eax, [esp+12]   ; a + b - c
 
     ret
+
