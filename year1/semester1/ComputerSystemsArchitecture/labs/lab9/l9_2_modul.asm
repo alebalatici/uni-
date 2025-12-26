@@ -1,4 +1,4 @@
-//l9_2_main.c + l9_2_modul.asm 
+; l9_2_main.c + l9_2_modul.asm 
 global _adaugare_asm
 segment code use32 class=code
 _adaugare_asm:
@@ -17,4 +17,5 @@ _adaugare_asm:
     
     pop ebp 
     ret
+
 
