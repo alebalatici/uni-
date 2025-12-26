@@ -1,3 +1,4 @@
+//l9_28_main.c + l9_28_modul.asm 
 #include <stdio.h>
 
 void citire_sir(char sir[]);
@@ -31,3 +32,4 @@ void afisare_sir(char sir[])
 {
     printf("%s\n", sir);
 }
+
