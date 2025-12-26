@@ -3,7 +3,6 @@
 void citire_sir(char sir[]);
 void afisare_sir(char sir[]);
 
-// Funcția ASM externă
 extern void asm_concat(char* rez, const char* s1, const char* s2);
 
 int main()
@@ -15,10 +14,10 @@ int main()
     citire_sir(str2);
     citire_sir(str3);
 
-    // concatenăm str1 + str2 în str4
+    // str1 + str2 în str4
     asm_concat(str4, str1, str2);
 
-    // concatenăm str4 + str3 în str5
+    // str4 + str3 în str5
     asm_concat(str5, str4, str3);
 
     afisare_sir(str5);
@@ -34,4 +33,5 @@ void citire_sir(char sir[])
 void afisare_sir(char sir[])
 {
     printf("%s\n", sir);
+
 }
