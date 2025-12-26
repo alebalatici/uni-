@@ -1,4 +1,4 @@
-//l9_5_main.c + l9_5_modul.c 
+//l9_5_main.c + l9_5_modul.asm 
 #include <stdio.h>
 // declarare functie asm
 int asm_calcul(int a, int b, int c);
@@ -27,3 +27,4 @@ void citire_abc(int* a, int* b, int* c)
     printf("Introduceti numarul c: ");
     scanf("%d", c);
 }
+
