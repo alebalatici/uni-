@@ -1,3 +1,4 @@
+//l9_5_main.c + l9_5_modul.asm 
 #include <stdio.h>
 extern void adaugare_asm(int x, int sir[], int* len);
 void afisare_sir(int sir[], int len);
@@ -23,3 +24,4 @@ void afisare_sir(int sir[], int len)
 	}
 	printf("\n");
 }
+
