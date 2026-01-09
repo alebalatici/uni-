@@ -17,9 +17,9 @@ int main()
 }
 void citire_sir(char sir[])
 {
-	scanf("%s", sir);
+	fgets(sir, 100, stdin);
 }
 void afisare_sir(char sir[])
 {
-	printf("%s\n", sir);
+	printf("Sirul modificat: %s", sir);
 }
