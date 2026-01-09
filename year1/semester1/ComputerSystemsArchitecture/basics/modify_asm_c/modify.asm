@@ -12,16 +12,16 @@ _asm_modify:
         cmp al, 0
         je final
         
+        cmp al, ' '
+        je urm
+
         add al, 1 
         mov [esi], al
         
+        urm:
         inc esi 
         jmp modify
         
     final:
         pop ebp 
         ret 
-        
-    
-        
-    
