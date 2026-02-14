@@ -41,4 +41,5 @@ start:
         jmp parcurgere
         
     final:
+    push    dword 0   
     call [exit]
