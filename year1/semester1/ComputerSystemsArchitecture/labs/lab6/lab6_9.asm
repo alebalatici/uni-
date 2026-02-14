@@ -1,9 +1,3 @@
-;9. A list of doublewords is given. Starting from the low part of the doubleword, obtain the doubleword made of the high even bytes of the low words of each doubleword ;from the given list. If there are not enough bytes, the remaining bytes of the doubleword will be filled with the byte FFh.
-;Example:
-;Given the string of doublewords:
-;s DD 12345678h, 1A2C3C4Dh, 98FCDD76h, 12783A2Bh
-;obtain the doubleword:
-;d DD FF3A3C56h
 bits 32
 global start        
 extern exit       
@@ -34,4 +28,5 @@ segment code use32 class=code
         stosb
         loop parcurgere1
         push    dword 0      
+
         call    [exit]      
