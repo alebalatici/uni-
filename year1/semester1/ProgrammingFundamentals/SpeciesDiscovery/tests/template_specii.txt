@@ -1,0 +1,46 @@
+1, Bober, 2023/12/12, Poland, mammal, 10
+2, Taxictis lumeus, 1994/11/01, Antarctica, reptile, 4
+3, Amazonica impennis, 2011/04/12, Brazil, reptile, 60
+4, Lupus carpathicus, 2005/06/18, Romania, mammal, 25
+5, Felis nocturna, 1999/09/03, Egypt, mammal, 7
+6, Draco borealis, 2018/02/27, Canada, reptile, 12
+7, Avium solaris, 2010/07/14, Australia, bird, 40
+8, Rana obscura, 1987/05/22, Peru, amphibian, 3
+9, Pisces argentum, 2021/08/30, Norway, fish, 120
+10, Insecta rubra, 2003/03/11, Madagascar, insect, 300
+11, Ursus minimus, 1975/10/05, Russia, mammal, 2
+12, Serpens ignis, 2016/01/19, Indonesia, reptile, 18
+13, Avis glacialis, 1992/12/01, Greenland, bird, 9
+14, Mammuthus parvus, 1980/04/09, Siberia, mammal, 1
+15, Lacerta viridis nova, 2008/06/25, Italy, reptile, 33
+16, Homo floresiensis, 2003/09/02, Indonesia, mammal, 9
+17, Tyrannosaurus rex, 1905/10/06, USA, reptile, 1
+18, Archaeopteryx lithographica, 1861/08/15, Germany, bird, 12
+19, Coelacanthus chalumnae, 1938/12/23, South Africa, fish, 2
+20, Panthera spelaea, 1810/04/01, France, mammal, 6
+21, Velociraptor mongoliensis, 1924/07/11, Mongolia, reptile, 3
+22, Megalodon carcharias, 1835/05/20, Chile, fish, 1
+23, Dodo ineptus, 1598/07/01, Mauritius, bird, 0
+24, Smilodon fatalis, 1842/03/09, Argentina, mammal, 5
+25, Gigantopithecus blacki, 1935/01/18, China, mammal, 2
+26, Anomalocaris canadensis, 1892/06/30, Canada, arthropod, 20
+27, Trilobita maxima, 1781/09/14, Sweden, arthropod, 50
+28, Titanoboa cerrejonensis, 2009/02/04, Colombia, reptile, 1
+29, Argentavis magnificens, 1979/11/22, Argentina, bird, 4
+30, Basilosaurus cetoides, 1834/04/05, Egypt, mammal, 7
+31, Ichthyosaurus communis, 1819/12/10, England, reptile, 15
+32, Pteranodon longiceps, 1876/08/07, USA, reptile, 8
+33, Australopithecus afarensis, 1974/11/24, Ethiopia, mammal, 14
+34, Sarcosuchus imperator, 1966/03/02, Niger, reptile, 1
+35, Leedsichthys problematicus, 1889/05/01, England, fish, 1
+36, Megatherium americanum, 1796/09/28, Argentina, mammal, 3
+37, Quetzalcoatlus northropi, 1971/06/15, Mexico, reptile, 2
+38, Spinosaurus aegyptiacus, 1912/01/03, Egypt, reptile, 1
+39, Direwolf canis, 1858/10/20, USA, mammal, 6
+40, Mammuthus primigenius, 1799/02/17, Russia, mammal, 10
+41, Hyaenodon horridus, 1869/07/08, Mongolia, mammal, 4
+42, Elasmotherium sibiricum, 1808/05/12, Kazakhstan, mammal, 2
+43, Thylacine cynocephalus, 1808/04/26, Australia, mammal, 0
+44, Helicoprion bessonowi, 1899/11/19, Russia, fish, 1
+45, Opabinia regalis, 1912/08/03, Canada, arthropod, 5
+46, Dunkleosteus terrelli, 1873/12/14, USA, fish, 1
