@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\main.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\main.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/main.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\domain\\locatar.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\domain\\locatar.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/domain/locatar.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/domain/locatar.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\tests\\tests_domain.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\tests\\tests_domain.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/tests/tests_domain.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/tests/tests_domain.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\repo\\repo_locatari.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\repo\\repo_locatari.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/repo/repo_locatari.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/repo/repo_locatari.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\tests\\tests_repo.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\tests\\tests_repo.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/tests/tests_repo.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/tests/tests_repo.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\service\\service_locatari.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\service\\service_locatari.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/service/service_locatari.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/service/service_locatari.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\domain\\validator.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\domain\\validator.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/domain/validator.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/domain/validator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\tests\\tests_service.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\tests\\tests_service.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/tests/tests_service.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/tests/tests_service.cpp.obj"
+},
+{
+  "directory": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AdministratorBloc.dir\\ui\\ui.cpp.obj -c C:\\Users\\Alexandra\\Desktop\\CLionProjects\\AdministratorBloc\\ui\\ui.cpp",
+  "file": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/ui/ui.cpp",
+  "output": "C:/Users/Alexandra/Desktop/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir/ui/ui.cpp.obj"
+}
+]
