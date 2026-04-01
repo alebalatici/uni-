@@ -1,0 +1,11 @@
+1, Lamborghini, 100000, Urus, 10/10/2027
+2, BMV, 200000, Seria 7, 10/10/2027
+3, Renault, 30000, Megan, 10/11/2017
+4, Renault, 20000, Arkana, 10/12/2030
+5, Ferrari, 1000000, adjksfn, 10/04/2019
+6, Skoda, 30000, sdnjfdv, 09/10/2000
+7, Lamborghini, 4000000, Urus, 07/10/2020
+8, BMV, 100000, Roz, 10/06/2020
+9, BMV, 60000, adjskfd, 10/10/2020
+10, Tesla, 100000, sjnkadfd, 12/04/2023
+47, qwedf, 345, wsdfgh, 10/10/2020
