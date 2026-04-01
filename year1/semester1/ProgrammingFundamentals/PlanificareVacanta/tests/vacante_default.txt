@@ -1,0 +1,10 @@
+1, Hotel Blue Wave, mare all-inclusive, 450
+2, Cabana Muntele Verde, munte drumetii, 300
+3, Pensiunea La Izvor, rural traditional, 200
+4, Vila Laguna, mare familie, 320
+5, Hotel Blue Wave, mare, 400
+6, Hotel IcePeak, munte sporturi de iarna, 600
+7, Casa Dunarea, delta pescuit, 250
+8, ApartamentHotel Urban Stay, oras city-brak, 400
+9, Camping Forest, aventura natura, 150
+10, Hotel RoyalCastle, lux premium, 900
