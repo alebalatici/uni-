@@ -5,3 +5,4 @@ read -p "Enter a file name: " FILENAME
 while [ ! -f $FILENAME ]; do
         read -p "Enter a file name: " FILENAME
 done
+exit 0
