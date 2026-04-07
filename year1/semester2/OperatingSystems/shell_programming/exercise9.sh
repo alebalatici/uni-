@@ -24,7 +24,7 @@ while [ $# -gt 0 ]; do
                 continue
         fi
 
-        nr_ap=$(grep -Eo "$word" $filename | wc -l)
+        nr_ap=$(grep -Eo "\<$word\>" $filename | wc -l)
         if [ $nr_ap -ge 3 ]; then
                 echo $word appears in $filename $nr_ap times, therefore more than 3 times
         else
