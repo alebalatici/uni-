@@ -1,0 +1,96 @@
+@startuml
+
+package "domain" {
+    class Locatar {
+    - apartament: int
+    - nume: string
+    - suprafata: double
+    - tip: string
+    + get_apartment(): [[nodiscard]] int
+    + get_nume(): [[nodiscard]] string
+    + get_suprafata(): [[nodiscard]] double
+    + get_tip(): [[nodiscard]] string
+    + set_apartament(int apartament_nou): void
+    + set_nume(const string& nume_nou): void
+    + set_suprafata(double suprafata_noua): void
+    + set_tip(const string& tip_nou): void
+    + operator==(other: Locatar): bool
+    + <<friend>> operator<<(std::ostream &os, const Locatar &locatar): ostream
+    }
+
+    class ValidationException {
+    - mgs: string
+    + get_message(): [[nodiscard]] const string
+    }
+
+    class ValidatorLocatar {
+    + validate(const Locatar &locatar): static void
+    }
+}
+
+package "repo" {
+    class RepoException {
+        - msg: string
+        + get_message() const: [[nodiscard]] string
+    }
+    class RepoLocatari {
+        - locatari: MyVector<Locatar>
+        + add_locatar(const Locatar &loc): void
+        + delete_locatar(int numar_apartament): void
+        + find_locatar(int numar_apartament): Locatar&
+        + modify_locatar(int numar_apartament, const string& nume_nou, double suprafata_noua, const string& tip_nou): void
+        + get_all_locatari(): const MyVector<Locatar> &;
+    }
+}
+
+package "vector" {
+    class MyVector {
+    - vector_data: TElem*
+    - vector_size: size_t
+    - vector_capacity: size_t
+    + resize(size_t new_capacity): void
+    + push_back(const TElem &elem): void
+    + at(size_t index): TElem&
+    + operator[](size_t index): TElem&
+    + operator[](size_t index) const:  const TElem&
+    + size() const: [[nodiscard]] size_t
+    + capacity() const: [[nodiscard]] size_t
+    + begin(): TElem*
+    + end(): TElem*
+    + begin() const: const TElem*
+    + end() const: const TElem*
+    + empty() const: [[nodiscard]] bool
+    + erase(TElem* it): void
+    + operator=(const MyVector& other): MyVector&
+    + operator==(const MyVector& other) const: bool
+    }
+}
+
+package "service" {
+    class RepoException {
+        - msg: string
+        + get_message(): string
+    }
+
+    class ServiceLocatari {
+        - repo: RepoLocatari&
+        - val: ValidatorLocatar&
+        + add_locatar(int apartament, const string& nume, double suprafata, const string& tip): void
+        + find_locatar(int numar_apartament): Locatar&
+        + delete_locatar(int numar_apartament): void
+        + modify_locatar(int numar_apartament, const string& nume_nou, double suprafata_noua, const string& tip_nou): void
+        + get_all_locatari() const: const MyVector <Locatar>&
+        + count_vowels(const string& word): static int
+        + filter_after_type(const MyVector<Locatar>& list, const string& tp): static MyVector <Locatar>
+        + filter_after_surface(const MyVector<Locatar>& list, double minimum_surface): static MyVector <Locatar>
+        + sort_after_name(const MyVector<Locatar>& list): static MyVector <Locatar>
+        + sort_after_surface(const MyVector<Locatar>& list): static MyVector <Locatar>
+        + sort_after_type_and_surface(const MyVector<Locatar>& list): static MyVector <Locatar>
+    }
+}
+
+RepoLocatari *-- MyVector : continua
+MyVector o-- Locatar : stocheaza
+ServiceLocatari -> RepoLocatari : apeleaza
+
+@enduml
