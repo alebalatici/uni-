@@ -1,4 +1,5 @@
 # Lab 6-7 Iteratia 2
+## Cloning instructions
 ```Bash
 git clone --no-checkout https://github.com/alebalatici/uni-.git
 cd uni-
