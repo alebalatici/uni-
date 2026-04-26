@@ -272,7 +272,7 @@ void Console::list_add_random_notificari_ui() const
         int numar_apartament;
         while (true)
         {
-            cout << "Introduceti numarul apartamentului locatarului:\n>>>";
+            cout << "Introduceti numarul de apartamente care sa fie generate:\n>>>";
             cin >> numar_apartament;
             if (!cin.fail()) break;
             cout << "Input invalid\n";
