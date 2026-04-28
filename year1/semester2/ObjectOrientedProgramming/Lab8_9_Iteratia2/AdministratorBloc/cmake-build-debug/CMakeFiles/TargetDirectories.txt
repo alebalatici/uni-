@@ -1,3 +1,0 @@
-/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/AdministratorBloc.dir
-/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
