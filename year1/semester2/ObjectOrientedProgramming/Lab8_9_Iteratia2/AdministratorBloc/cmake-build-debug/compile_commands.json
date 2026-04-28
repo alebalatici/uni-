@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/main.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/main.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/main.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/domain/locatar.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/domain/locatar.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/domain/locatar.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/domain/locatar.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/domain/validator.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/domain/validator.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/domain/validator.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/domain/validator.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/repo/repo_locatari.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/repo/repo_locatari.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/repo/repo_locatari.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/repo/repo_locatari.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/service/service_locatari.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/service/service_locatari.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/service/service_locatari.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/service/service_locatari.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/ui/ui.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/ui/ui.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/ui/ui.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/ui/ui.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/tests/tests_domain.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_domain.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_domain.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/tests/tests_domain.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/tests/tests_repo.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_repo.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_repo.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/tests/tests_repo.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/tests/tests_service.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_service.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_service.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/tests/tests_service.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/notification_list/lista_notificare.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/notification_list/lista_notificare.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/notification_list/lista_notificare.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/notification_list/lista_notificare.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/tests/tests_lista_notificare.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_lista_notificare.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/tests/tests_lista_notificare.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/tests/tests_lista_notificare.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/cmake-build-debug",
+  "command": "/usr/bin/c++    -Wall -Wextra -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Werror -o CMakeFiles/AdministratorBloc.dir/utils/file_utils.cpp.o -c /mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/utils/file_utils.cpp",
+  "file": "/mnt/c/Users/Alexandra/CLionProjects/AdministratorBloc/utils/file_utils.cpp",
+  "output": "CMakeFiles/AdministratorBloc.dir/utils/file_utils.cpp.o"
+}
+]

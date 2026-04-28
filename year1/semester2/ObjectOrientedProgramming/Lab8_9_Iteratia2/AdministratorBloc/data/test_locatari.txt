@@ -1,0 +1,16 @@
+2,Ionescu Maria,48,garsoniera
+3,Georgescu Andrei,120,penthouse
+4,Vasilescu Elena,35.5,garsoniera
+5,Dumitru Radu,72.3,apartament
+6,Stan Ana,41.8,garsoniera
+7,Marin Vlad,55,apartament
+8,Tudor Ioana,180,penthouse
+9,Rusu Mihai,29.9,garsoniera
+10,Ilie Daniela,80,apartament
+11,Stoica Paul,200.5,penthouse
+12,Enache Laura,44.1,garsoniera
+13,Barbu Cosmin,67.8,apartament
+14,Dobre Alina,38.6,garsoniera
+15,Matei George,150,penthouse
+1,Popescu Ion,52.5,apartament
+18,Florin,533,garsoniera
