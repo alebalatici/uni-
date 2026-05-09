@@ -1,0 +1,10 @@
+6,Stan Ana,41.8,garsoniera
+8,Tudor Ioana,180,penthouse
+9,Rusu Mihai,29.9,garsoniera
+11,Stoica Paul,200.5,penthouse
+12,Enache Laura,44.1,garsoniera
+14,Dobre Alina,38.6,garsoniera
+2,Ionescu Maria,48,garsoniera
+15,Matei George,150,penthouse
+3,Georgescu Andrei,120,penthouse
+20,A,20,apartament
