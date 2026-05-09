@@ -75,9 +75,6 @@ private:
     QPushButton* button_find_locatar;
     QPushButton* button_notification_list;
 
-    QPushButton* button_tip_apartament = new QPushButton(tr("Contor Apartament"));
-    QPushButton* button_tip_garsoniera = new QPushButton(tr("Contor Garsoniera"));
-    QPushButton* button_tip_penthouse = new QPushButton(tr("Contor Penthouse"));
 
     QGroupBox* group_box_sortare = new QGroupBox(tr("Sortare"));
     QGroupBox* group_box_filtrare = new QGroupBox(tr("Filtrare"));
