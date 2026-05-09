@@ -102,7 +102,7 @@ void RepoLocatariFile::save_to_file()
     ofstream file(this->filename);
     if (!file.is_open())
     {
-        throw RepoLocatariFile("Nu sa putut deschide fisierul " + filename);
+        throw RepoException("Nu sa putut deschide fisierul " + filename);
     }
     for (auto& locatar : locatari)
     {
