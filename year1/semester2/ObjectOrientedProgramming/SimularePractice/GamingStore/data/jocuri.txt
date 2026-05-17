@@ -1,0 +1,10 @@
+titlu1,1,PC,3
+titlu3,3,Nintendo,7
+titlu8,8,XBOX,3
+titlu10,10,PlayStation,18
+titlu5,5,PC,16
+titlu4,4,XBOX,12
+titlu6,6,PC,12
+titlu7,7,PlayStation,12
+titlu2,2,XBOX,7
+titlu9,9,PlayStation,3
