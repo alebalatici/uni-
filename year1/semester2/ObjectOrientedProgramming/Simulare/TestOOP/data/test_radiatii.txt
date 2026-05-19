@@ -1,0 +1,10 @@
+1,descriere1,1,alpha
+2,descriere2,2,beta
+3,descriere3,3,beta
+4,descriere4,4,alpha
+5,descriere5,5,gamma
+6,descriere6,6,alpha
+7,descriere7,7,alpha
+8,descriere8,8,gamma
+9,descriere9,9,alpha
+10,descriere10,10,beta
