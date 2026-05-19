@@ -87,6 +87,7 @@ class Tests {
         test_add_repo();
         test_add_service();
         test_filtrare_frecventa();
+        test_filtrare_string();
     }
 
 };
