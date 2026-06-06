@@ -1,0 +1,10 @@
+nume1,tara1,1,10
+nume2,tara2,2,9
+nume3,tara3,3,8
+nume4,tara4,4,7
+nume5,tara5,5,6
+nume6,tara6,6,5
+nume7,tara7,7,4
+nume8,tara8,8,3
+nume9,tara9,9,2
+nume10,tara10,10,1
