@@ -1,0 +1,10 @@
+tip1,model1,2001,rosu,1.0
+tip2,model2,2002,negru,2.0
+tip3,model3,2003,albastru,3.0
+tip4,model4,2004,galben,4.0
+tip5,model5,2005,rosu,5.0
+tip6,model6,2006,galben,6.0
+tip7,model7,2007,albastru,7.0
+tip8,model8,2008,galben,8.0
+tip9,model9,2009,rosu,9.0
+tip10,model10,2010,negru,10.0
