@@ -1,0 +1,10 @@
+cnp1,nume1,prenume1,sectie1,1
+cnp2,nume2,prenume2,sectie2,0
+cnp3,nume3,prenume3,sectie3,0
+cnp4,nume4,prenume4,sectie2,1
+cnp5,nume5,prenume5,sectie3,0
+cnp6,nume6,prenume6,sectie2,0
+cnp7,nume7,prenume7,sectie1,0
+cnp8,nume8,prenume8,sectie2,1
+cnp9,nume9,prenume9,sectie1,1
+cnp10,nume10,prenume10,sectie3,1
