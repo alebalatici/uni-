@@ -1,0 +1,10 @@
+nume1,tara1,657,10
+nume2,tara2,65,9
+nume3,tara3,234,8
+nume4,tara4,87544,7
+nume5,tara4,67,6
+nume6,tara3,546,5
+nume7,tara2,7,4
+nume8,tara1,45,3
+nume9,tara1,46,2
+nume10,tara3,13,1
