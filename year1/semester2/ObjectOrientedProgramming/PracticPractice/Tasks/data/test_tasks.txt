@@ -1,0 +1,10 @@
+1,descriere1,Nume1;Nume3,inprogress
+2,descriere2,Nume3,inprogress
+3,descriere3,Nume1;Nume3;Nume4,open
+4,descriere4,Nume3;Nume10,closed
+5,descriere5,Nume4;Nume5;Nume6;Nume7,inprogress
+6,descriere6,Nume5;Nume6,open
+7,descriere7,Nume7,inprogress
+8,descriere8,Nume8,open
+9,descriere9,Nume8;Nume10,closed
+10,descriere10,Nume8;Nume9,inprogress
