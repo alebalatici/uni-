@@ -1,0 +1,10 @@
+1,Laptop ASUS,Electronice,3499.99
+2,Telefon iPhone 15,Electronice,4200.00
+3,Scaun Birou,Mobilier,550.50
+4,Tastatura Mecanica,Periferice,280.00
+5,Monitor LED,Electronice,899.90
+6,Masa Bucatarie,Mobilier,1200.00
+7,Casti Wireless,Audio,450.25
+8,Mouse Gaming,Periferice,150.00
+9, Boxa Portabila, Audio,320.00
+10,Dulap Haine, Mobilier,1850.00

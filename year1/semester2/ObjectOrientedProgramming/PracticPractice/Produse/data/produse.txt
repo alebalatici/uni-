@@ -1,0 +1,13 @@
+1,Laptop ASUS,Electronice,3499.99
+2,Telefon iPhone 15,Electronice,4200
+3,Scaun Birou,Mobilier,550.5
+4,Tastatura Mecanica,Periferice,280
+5,Monitor LED,Electronice,899.9
+6,Masa Bucatarie,Mobilier,1200
+7,Casti Wireless,Audio,450.25
+8,Mouse Gaming,Periferice,150
+9, Boxa Portabila,Audio,320
+10,Dulap Haine,Mobilier,1850
+15,dwfedg,Electrocasnice,1
+12,wesfd,Periferice,2
+13,wrfi,Periferice,3
