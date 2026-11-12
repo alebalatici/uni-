@@ -1,1 +1,0 @@
-12;usename;firstname;lastname;email@email.com;2000-10-10
