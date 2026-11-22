@@ -27,10 +27,4 @@ A structured collection of lecture notes, lab assignments, seminars, and project
 
 ---
 
-## 🛠️ Technologies & Languages Covered
-* **Languages:** C, C++, Python, Java, Assembly (x86), Prolog, Common Lisp, SQL, Bash, JavaScript
-* **Tools & Frameworks:** PostgreSQL, JDBC, Git, Gradle, Qt, JavaFX, Linux/Unix
-
----
-
 > *Note: This repository is intended for personal archiving and educational reference.*
